@@ -6,3 +6,12 @@
 	padding-left: 30px;
 	border: 1px solid #000000;
 }
+#cabecera{
+	height: 80px;
+	border: 1px solid #8D8686;
+	margin-right: 30px;
+	display: flex;
+    align-items: center;
+    padding-left: 30px;
+    background-color: #EBCF5E;
+}
